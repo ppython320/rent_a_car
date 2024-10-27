@@ -6,6 +6,7 @@ from utils import (
 
 from add_car import add_car
 
+print('new_changes')
 
 #== Login ==#
 USERNAME = 'orxan_rent_85'
